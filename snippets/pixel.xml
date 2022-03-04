@@ -10,6 +10,10 @@
           fetch="https://github.com/ProjectBlaze"
           revision="twelve" />
 
+  <remote name="gitlab" 
+          fetch="https://gitlab.com/rockstar5495"
+          revision="12" />
+
   <!-- External repos -->
   <project path="external/boringssl" name="external_boringssl" remote="pixel" />
   <project path="external/cldr" name="external_cldr" remote="pixel" />
@@ -148,4 +152,7 @@
   <!-- Tools Repos -->
   <project path="tools/metalava" name="tools_metalava" remote="pixel" />
 
+  <!-- Vendor Repos -->
+  <project path="vendor/aosp" name="vendor_aosp" remote="blaze" />
+  <project path="vendor/gms" name="platform_vendor_gms" remote="gitlab" clone-depth="1" />
 </manifest>
