@@ -1,6 +1,6 @@
 # Project Blaze #
 ![20220304_195037](https://user-images.githubusercontent.com/87426352/156781124-0dec9231-9d4c-4b66-a8e8-036d1ced5c2e.png)
-###Sync###
+### Sync ###
 
 ```bash
 
