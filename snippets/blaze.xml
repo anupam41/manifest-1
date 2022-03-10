@@ -76,6 +76,7 @@
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="blaze" />
   <project path="packages/apps/FMRadio" name="packages_apps_FMRadio" remote="blaze" />
   <project path="packages/apps/FaceUnlockService" name="packages_apps_FaceUnlockService" remote="blaze" />
+  <project path="packages/apps/GamingMode" name="packages_apps_GamingMode" remote="blaze" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="blaze" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="blaze" />
   <project path="packages/apps/BlazeHouse" name="packages_apps_BlazeHouse" remote="blaze" />
