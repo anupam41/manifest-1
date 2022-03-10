@@ -12,7 +12,8 @@
 
   <!-- GitLab -->
   <remote  name="gitlab"
-           fetch="https://gitlab.com/" />
+           fetch="https://gitlab.com/rockstar5495"
+	   revision="12" />
 
   <!-- Rootdir -->
   <project path="bionic" name="bionic" groups="pdk" remote="blaze" />
@@ -74,5 +75,6 @@
 
   <!-- Vendor -->
   <project path="vendor/blaze" name="vendor_blaze" remote="blaze" />
+  <project path="vendor/gms" name="platform_vendor_gms" remote="gitlab" />
 
 </manifest>
