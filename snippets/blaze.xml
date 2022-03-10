@@ -62,6 +62,7 @@
 
   <!-- Packages -->
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="blaze" />
+  <project path="packages/apps/BlazeHouse" name="packages_apps_BlazeHouse" remote="blaze" />
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="blaze" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="blaze" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="blaze" />
