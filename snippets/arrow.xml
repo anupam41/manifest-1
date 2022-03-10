@@ -2,7 +2,8 @@
 <manifest>
 
   <remote  name="ArrowOS"
-           fetch="https://github.com/ArrowOS" />
+           fetch="https://github.com/"
+	   revision="arrow-12.0" />
 
   <!-- Hardware -->
   <project path="hardware/qcom-caf/msm8996/audio" name="ArrowOS/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk-qcom" revision="arrow-12.1-caf-msm8996-R" remote="ArrowOS" />
