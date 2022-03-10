@@ -92,6 +92,7 @@
 
   <!-- Vendor -->
   <project path="vendor/blaze" name="vendor_blaze" remote="blaze" />
+  <project path="vendor/support" name="vendor_support" remote="blaze" />
   <project path="vendor/gms" name="platform_vendor_gms" remote="gitlab" />
 
 </manifest>
